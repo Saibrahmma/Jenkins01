@@ -39,6 +39,10 @@
                 <input type="text" class="form-control text-center" 
                        name="username" placeholder="Enter your name" required>
             </div>
+            <div class="mb-3">
+                <input type="text" class="form-control text-center" 
+                       name="empid" placeholder="Enter your Employee ID" required>
+            </div>
             <button type="submit" class="btn btn-custom px-4">Enter</button>
         </form>
     </div>
