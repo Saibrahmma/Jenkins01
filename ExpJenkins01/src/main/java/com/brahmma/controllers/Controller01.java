@@ -7,4 +7,7 @@ public class Controller01 {
 	
 	String s = "sai";
 
+
+	int x = 50;
+
 }
